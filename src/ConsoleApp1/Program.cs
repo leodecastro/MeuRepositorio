@@ -13,6 +13,8 @@ namespace ConsoleApp1
             System.Console.ReadLine();
             System.Console.WriteLine("linha 2");
             System.Console.ReadLine();
+            System.Console.WriteLine("Linha 3");
+            System.Console.ReadLine();
 
 
 
